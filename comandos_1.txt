@@ -1,4 +1,0 @@
-git init : inicia un repositorio o lo reinicia
-git status : obtengo informacion del repositorio
-git add [archivo] : 
-git commit -m 'nombre cosa' 
